@@ -676,8 +676,10 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
+.premierp{
+    font-size: 24px;
+    margin-bottom:10%;
+    font-weight:500;
 }
 
 .tight-width-whitespace {
@@ -705,7 +707,8 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
+    font-weight:bold;
     line-height: 1.4em;
 }
 
@@ -1040,6 +1043,16 @@ h4 {
         text-align: center;
     }
 }
-/*
-modification afin d'améliorer le site 
-*/
+
+.deuxiememodif {
+    font-size: 18px;
+    font-style: italic;
+}
+span{
+    font-size:13px;
+    font-style:normal;
+}
+
+
+
+
