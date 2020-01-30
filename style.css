@@ -740,6 +740,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size:19px;
 }
 
 .portfolio-thumb {
@@ -756,7 +757,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+   
     padding: 40px 40px 40px 40px;
 }
 
@@ -779,7 +780,8 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
-    font-size:18px;
+    font-size:19px;
+    font-weight:600;
 }
 
 .btn-atomic-tangerine {
