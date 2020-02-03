@@ -779,7 +779,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
     font-size:19px;
     font-weight:600;
 }
@@ -1059,7 +1059,6 @@ span{
     font-size: 23px;
     color:rgb(87,108,125);
 }
-
 
 
 
