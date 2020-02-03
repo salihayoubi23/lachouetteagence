@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\.htaccess",
+  "SelectedNode": "\\js\\blocs.js",
   "PreviewInSolutionExplorer": false
 }
